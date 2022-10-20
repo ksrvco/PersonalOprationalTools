@@ -16,7 +16,7 @@ mkdir -p $wdir
 cat $logdir | \
 grep "authentication failure" | \
 grep "ruser" | \
-awk ' { print $14} ' | \
+awk ' { print $14 } ' | \
 cut -d "=" -f2 | \
 uniq -c | \
 sort -u | \
