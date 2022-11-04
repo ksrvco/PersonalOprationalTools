@@ -4,3 +4,5 @@ In this repository, I put some of the tools that I use in operational environmen
 This tools coded and tested for debian based linux servers and systems.
 
 These tools are small, but they are able to have better outputs in operational environments. Also, these tools are open source and it is possible for anyone to complete them and add more features to them. I myself try to expand them when I have free time because it is one of my interests.
+ 
+Also in this repository i have some tools and configuration files that don't written by me but they are important for us.
